@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6F3D467B-B975-4855-85F3-61FE58E42811",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 29,
+    "width": 40,
+    "x": 40,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1CBFB6D6-DFC8-469A-ACBF-4BADEC806862"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51EA08C5-92E3-411D-B277-6805DE539A13"
+    }
+  ],
+  "name": "logo_VI",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
